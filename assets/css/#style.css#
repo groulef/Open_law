@@ -249,7 +249,7 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(http://www.sciencespo.fr/formation-continue/sites/sciencespo.fr.formation-continue/files/eiffel-tower-paris-2.jpg) no-repeat center top;
+	background: url(../img/back.jpg) no-repeat center top;
 	margin-top: 0px;
 	padding-top:120px;
 	text-align:center;
@@ -300,7 +300,7 @@ h1, h2, h3, h4, h5, h6 {
 	height: 60px;
 	margin: 0 auto 45px;
 	border-top: 1px solid #000;
-	background: url(../img/name-label.png) center bottom no-repeat;
+
 	background-size: 35px 35px;
 }
 
@@ -328,7 +328,7 @@ h1, h2, h3, h4, h5, h6 {
 	position: relative;
 }
 .about {
-	background-image: url(http://www.albin-michel.fr/multimedia/Article/Image/2004/9782226151988-j.jpg);
+	background-image: url(../img/about-sep.jpg);
 }
 
 /* Portfolio Wrap Section */
@@ -367,7 +367,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .portfolio {
-	background-image: url(http://www.gizmodo.fr/wp-content/uploads/2011/07/Fotolia_21801550_Subscription_XL.jpg);
+	background-image: url(../img/portfolio-sep.jpg);
 }
 
 /* Service Wrap */
@@ -428,7 +428,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .contact {
-	background-image: url(http://static.panoramio.com/photos/large/199047.jpg);
+	background-image: url(../img/contact-sep.jpg);
 }
 
 #contactwrap label {

@@ -27,7 +27,7 @@
 			<h1 class="logo"><a href="index.html#home">OpenLaw</a></h1>
 			<i class="fa fa-times menu-close"></i>
 			<a href="#home" class="smoothScroll">Home</a>
-			<a href="#about" class="smoothScroll">OpenLaw 2014</a>
+			<a href="#about" class="smoothScroll">À propos</a>
 			<a href="#portfolio" class="smoothScroll">Les projets</a>
 			<a href="#services" class="smoothScroll">Bases de données</a>
 			<a href="#services" class="smoothScroll">Communautés</a>
@@ -47,7 +47,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3">
-					<h1>OPENLAW</h1>
+					<h1>DESIGN STUDIO</h1>
 				</div>
 			</div><!--/row -->
 		</div><!--/container -->
@@ -57,33 +57,24 @@
 	<div id="aboutwrap">
 		<div class="container">
 			<div class="row">
-				<!--div class="col-lg-4 name">
+				<div class="col-lg-4 name">
 					<img class="img-responsive" src="assets/img/pic.png">
 					<p>DANIEL PRATT</p>
 					<div class="name-label"></div>
-				</div--><!--/col-lg-4-->
+				</div><!--/col-lg-4-->
 				<div class="col-lg-8 name-desc">
-					<h2>Open Law<br/>2014<br/>LE DROIT OUVERT</h2>
+					<h2>TALENTED DESIGNER & <br/>FRONT-END DEVELOPER <br/>ENJOYING THE BEAUTIFUL NYC</h2>
 					<div class="name-zig"></div>
 					
 					<div class="col-md-6">
-						<p>Open Law est un programme de cocréation numérique destiné à mettre en valeur le droit ouvert, accompagner globalement l'ouverture des données juridiques et stimuler l'innovation collaborative autour des données juridiques ouvertes. Il préfigure et consolide une communauté de legal hackers (wikipedia) composée de toute personne désirant contribuer, quelle que soit sa formation, son expérience ou encore ses compétences étudiants et professionnels du droit, graphistes, développeurs ou entrepreneurs ; porteurs de projets et simples contributeurs, etc.).</p>
-						<p>Lancé le jeudi 30 octobre 2014 à l'occasion de l'Open World Forum 2014, il est impulsé par l'Open World Forum (OWF), la Direction de l'information légale et administrative (DILA), Etalab et le NUMA et organisé au jour le jour par un comité d'organisation composé de professionnels du droit, d'acteurs communautaires, d'acteurs de l'Open Source, d'agents de l'état et de développeurs.</p>
-						
-
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+						<p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 					</div>
 					<div class="col-md-6">
-						<p>Placé sous le triple signe de l'innovation, de la collaboration, et de l'ouverture, il a vocation a être alimenté durant six mois par une multitude d'événements périodiques permettant d'approfondir, préfigurer et prototyper les différents projets et scénarios de services susceptibles d'être coconstruits.</p><p>Les objectifs de ce programme sont de :
-
-réfléchir à l'exercice, la place et les pratiques entourant le droit dans notre société numérique ;
-rendre plus accessibles certains jeux de données juridiques nouvellement ouverts ;
-ouvrir des jeux de données non encore ouverts ;
-créer une communauté de « hackers (coconstructeurs) du droit » ;
-Favoriser la contribution des juristes à la co création et (re)penser le droit au service de l'innovation.</p>
-						<p>Le projet Open Law, le droit ouvert couvre les six prochains mois et un premier bilan sera dressé en avril 2015.</p>
+						<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+						<p> Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. </p>
 					</div>
-					<a href="openlaw2014.html">
-					<button style="margin-left:90%;" type="button" class="btn btn-default">En savoir plus ></button></a>
+					
 				</div><!--/col-lg-8-->
 		
 			</div><!-- /row -->
@@ -98,13 +89,13 @@ Favoriser la contribution des juristes à la co création et (re)penser le droit
 	<div id="portfoliowrap">
 		<div class="container">
 			<div class="row">
-				<h1>Nos derniers projets</h1>
+				<h1>SOME OF MY LATEST WORKS</h1>
 				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 desc">
 					<div class="project-wrapper">
 	                    <div class="project">
 	                        <div class="photo-wrapper">
 	                            <div class="photo">
-	                            	<a class="fancybox" href="assets/img/textserie.png"><img class="img-responsive" style="height:180px" src="assets/img/serie.jpg" alt=""></a>
+	                            	<a class="fancybox" href="assets/img/portfolio/port04.jpg"><img class="img-responsive" src="assets/img/portfolio/port04.jpg" alt=""></a>
 	                            </div>
 	                            <div class="overlay"></div>
 	                        </div>
@@ -117,7 +108,7 @@ Favoriser la contribution des juristes à la co création et (re)penser le droit
 	                    <div class="project">
 	                        <div class="photo-wrapper">
 	                            <div class="photo">
-	                            	<a class="fancybox" href="assets/img/textdroitvideo.png"><img class="img-responsive" style="height:220px;" src="assets/img/droitvideo.png" alt=""></a>
+	                            	<a class="fancybox" href="assets/img/portfolio/port05.jpg"><img class="img-responsive" src="assets/img/portfolio/port05.jpg" alt=""></a>
 	                            </div>
 	                            <div class="overlay"></div>
 	                        </div>
@@ -130,7 +121,7 @@ Favoriser la contribution des juristes à la co création et (re)penser le droit
 	                    <div class="project">
 	                        <div class="photo-wrapper">
 	                            <div class="photo">
-	                            	<a class="fancybox" href="assets/img/texttransmitio.png"><img class="img-responsive" style="height:180px" src="assets/img/transmitio.jpg" alt=""></a>
+	                            	<a class="fancybox" href="assets/img/portfolio/port06.jpg"><img class="img-responsive" src="assets/img/portfolio/port06.jpg" alt=""></a>
 	                            </div>
 	                            <div class="overlay"></div>
 	                        </div>
@@ -139,7 +130,7 @@ Favoriser la contribution des juristes à la co création et (re)penser le droit
 				</div><!-- col-lg-4 -->
 			</div><!-- /row -->
 	
-			<!--div class="row mt">
+			<div class="row mt">
 				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 desc">
 					<div class="project-wrapper">
 	                    <div class="project">
@@ -151,9 +142,9 @@ Favoriser la contribution des juristes à la co création et (re)penser le droit
 	                        </div>
 	                    </div>
 	                </div>
-				</div--><!-- col-lg-4 -->
+				</div><!-- col-lg-4 -->
 				
-				<!--div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 desc">
+				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 desc">
 					<div class="project-wrapper">
 	                    <div class="project">
 	                        <div class="photo-wrapper">
@@ -164,9 +155,9 @@ Favoriser la contribution des juristes à la co création et (re)penser le droit
 	                        </div>
 	                    </div>
 	                </div>
-				</div--><!-- col-lg-4 -->
+				</div><!-- col-lg-4 -->
 				
-				<!--div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 desc">
+				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 desc">
 					<div class="project-wrapper">
 	                    <div class="project">
 	                        <div class="photo-wrapper">
@@ -177,11 +168,10 @@ Favoriser la contribution des juristes à la co création et (re)penser le droit
 	                        </div>
 	                    </div>
 	                </div>
-				</div--><!-- col-lg-4 -->
-			</div><!-- /row --><a href="Projet.html">
-					<button style="margin-top:30px;margin-left:70%;" type="button" class="btn btn-default">Voir tous les projets OpenLaw ></button></a>
+				</div><!-- col-lg-4 -->
+			</div><!-- /row -->
 		</div><!--/container -->
-		<!--div class="container">
+		<div class="container">
 			<div class="row mt centered">
 				<h1>MY DESIGN PROCESS</h1>
 				<div class="col-lg-4 proc">
@@ -198,7 +188,7 @@ Favoriser la contribution des juristes à la co création et (re)penser le droit
 					<i class="fa fa-heart"></i>
 					<h3>The Product</h3>
 					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.</p>
-				</div-->
+				</div>
 				
 			</div><!--/row -->
 		</div><!--/container -->
@@ -214,13 +204,13 @@ Favoriser la contribution des juristes à la co création et (re)penser le droit
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8-offset-2 centered">
-					<h1>Communautés</h1>
-					<h3>Le programme Open Law s'appuie sur une diversité de communauté hétérogène</h3>
-					<p></p>
+					<h1>AN OVERVIEW OF MY SERVICES</h1>
+					<h3>I'll do all the work for you</h3>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 				</div><!-- /col-lg-8 -->
 			</div><!--/row -->
 			
-			<!--div class="row mt">
+			<div class="row mt">
 				<div class="col-lg-3 service">
 					<i class="fa fa-star"></i><p>PREMIUM QUALITY<br/><small>LOREM IPSUM DOLOR</small></p>
 					<p class="text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
@@ -237,23 +227,23 @@ Favoriser la contribution des juristes à la co création et (re)penser le droit
 					<i class="fa fa-heart"></i><p>100% SATISFACTION<br/><small>LOREM IPSUM DOLOR</small></p>
 					<p class="text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
 				</div>
-			</div--><!--/row -->
+			</div><!--/row -->
 			<div class="row mt">
 				<div class="col-lg-3 service">
-					<i class="fa fa-trophy"></i><p>COMUNAUTÉ<br/><small><a href="http://www.openworldforum.paris/fr/participants/">Open World Forum</a></small></p>
-					<p class="text"></p>
+					<i class="fa fa-trophy"></i><p>PREMIUM QUALITY<br/><small>LOREM IPSUM DOLOR</small></p>
+					<p class="text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
 				</div>
 				<div class="col-lg-3 service">
-					<i class="fa fa-globe"></i><p>MEET-UP<br/><small>Legal Innovation Paris</small></p>
-					<p class="text"></p>
+					<i class="fa fa-globe"></i><p>CLOUD SERVICES<br/><small>LOREM IPSUM DOLOR</small></p>
+					<p class="text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
 				</div>
 				<div class="col-lg-3 service">
-					<i class="fa fa-star"></i><p>L'ÉQUIPE<br/><small>Legal Innovation Paris</small></p>
-					<p class="text"></p>
+					<i class="fa fa-lock"></i><p>SECURED ACCOUNTS<br/><small>LOREM IPSUM DOLOR</small></p>
+					<p class="text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
 				</div>
 				<div class="col-lg-3 service">
-					<i class="fa fa-thumbs-up"></i><p>LE THINK TANK<br/><small><a href="https://www.linkedin.com/groups?home=&gid=6638775&trk=groups_about-h-logo">Canal Themis</a></small></p>
-					<p class="text"></p>
+					<i class="fa fa-thumbs-up"></i><p>100% SATISFACTION<br/><small>LOREM IPSUM DOLOR</small></p>
+					<p class="text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
 				</div>
 			</div><!--/row -->
 			
@@ -263,7 +253,39 @@ Favoriser la contribution des juristes à la co création et (re)penser le droit
 	<div id="testimonials">
 		<div class="container">
 			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2 mt">
 				
+					<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+					  <!-- Wrapper for slides -->
+					  <div class="carousel-inner">
+					    <div class="item active mb centered">
+					      <h3>MARK WEBBER</h3>
+					      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+					      <p><img class="img-circle" src="assets/img/pic-t1.jpg" width="80"></p>
+					    </div>
+
+					    <div class="item mb centered">
+					      <h3>PAUL LEVINGSTON</h3>
+					      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+					      <p><img class="img-circle" src="assets/img/pic-t2.jpg" width="80"></p>
+					    </div>
+
+					    <div class="item mb centered">
+					      <h3>LUCY LENNIN</h3>
+					      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+					      <p><img class="img-circle" src="assets/img/pic-t3.jpg" width="80"></p>
+					    </div>
+
+					  </div>
+					  <!-- Indicators -->
+					  <ol class="carousel-indicators">
+					    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+					    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+					    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+					  </ol>
+					</div>
+					  
+				</div><!--/col-lg-8 -->
 			</div><!--/row -->
 		</div><!--/container -->
 	</div><!--/testimonials -->
@@ -277,16 +299,17 @@ Favoriser la contribution des juristes à la co création et (re)penser le droit
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6">
-					<p>CONTACTEZ NOUS MAINTENANT!</p>
-					
+					<p>CONTACT ME RIGHT NOW!</p>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
 					<p>
-						<small>5 avenue machin<br/>
-						75001 Paris<br/>
-						FR.</small>
+						<small>5th Avenue, 987<br/>
+						38399, New York,<br/>
+						USA.</small>
 					</p>
 					<p>
-						<small>Tel. 01 01 01 01 01<br/>
-						Mail. OpenLaw@gmail.com<br/>
+						<small>Tel. 9888-4394<br/>
+						Mail. Hello@coolfolks.com<br/>
+						Skype. NYCDesign
 					</p>
 			
 				</div>
@@ -294,14 +317,14 @@ Favoriser la contribution des juristes à la co création et (re)penser le droit
 				<div class="col-lg-6">
 					<form role="form">
 					  <div class="form-group">
-					    <label for="exampleInputName1">Nom</label>
-					    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Jean Marie">
-					    <label for="exampleInputEmail1">Email</label>
-					    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="votreadresse@domaine.com">
+					    <label for="exampleInputName1">Your Name</label>
+					    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter name">
+					    <label for="exampleInputEmail1">Email address</label>
+					    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
 					    <label for="exampleInputText1">Message</label>
 					    <textarea class="form-control" rows="3"></textarea>
 					  </div>
-					  <button type="submit" class="btn btn-default">Envoyer mon message</button>
+					  <button type="submit" class="btn btn-default">Submit</button>
 					</form>
 				</div>
 			
