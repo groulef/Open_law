@@ -31,7 +31,28 @@
 			<a href="#portfolio" class="smoothScroll">Les projets</a>
 			<a href="#services" class="smoothScroll">Bases de données</a>
 			<a href="#services" class="smoothScroll">Communautés</a>
+			<a href="#inscription" class="smoothScroll">Inscription</a>
 			<a href="#contact" class="smoothScroll">Contact</a>
+			<a href="#connexion" class="smoothScroll">Connexion</a>
+<form class="form-horizontal" style="margin-right:20px;">
+  <div class="form-group">
+    <label for="inputEmail3" class="col-sm-2 control-label"> </label>
+    <div class="col-sm-10">
+      <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="inputPassword3" class="col-sm-2 control-label"> </label>
+    <div class="col-sm-10">
+      <input type="password" class="form-control" id="inputPassword3" placeholder="Mot de passe">
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="col-sm-offset-2 col-sm-10">
+      <button type="submit" class="btn btn-default">Se connecter</button>
+    </div>
+  </div>
+</form>
 			<a href="#"><i class="fa fa-facebook"></i></a>
 			<a href="#"><i class="fa fa-twitter"></i></a>
 			<a href="#"><i class="fa fa-dribbble"></i></a>
@@ -178,7 +199,7 @@ Favoriser la contribution des juristes à la co création et (re)penser le droit
 	                    </div>
 	                </div>
 				</div--><!-- col-lg-4 -->
-			</div><!-- /row --><a href="Projet.html">
+			</div><!-- /row --><a href="projet.html">
 					<button style="margin-top:30px;margin-left:70%;" type="button" class="btn btn-default">Voir tous les projets OpenLaw ></button></a>
 		</div><!--/container -->
 		<!--div class="container">
@@ -267,7 +288,98 @@ Favoriser la contribution des juristes à la co création et (re)penser le droit
 			</div><!--/row -->
 		</div><!--/container -->
 	</div><!--/testimonials -->
+		<!-- INSCRIPTION SECTION -->
+	<div class="container" id="inscription">
+	  <form class="form-horizontal" method="post">
+	    <fieldset>
+	      <h1>Inscription</h1>
+	      <div  class="row">
+	      <div class="col-sm-4"> 
+	      <!-- Nom d utilisateur input-->
+	      <div class="control-group" >
+		<label class="control-label" for="username">Nom d'utilisateur *</label>
+		<div class="controls">
+		  <input id="username" name="username" placeholder="" class="input-xlarge" required="">
+		  
+		</div>
+	      </div>
+
+	      <!-- addresse courriel input-->
+	      <div class="control-group">
+		<label class="control-label" for="email">Adresse Courriel *</label>
+		<div class="controls">
+		  <input id="email" name="email" placeholder="" class="input-xlarge" required="">
+		  
+		</div>
+	      </div>
+	      
+	      <!-- mot de passe input-->
+	      <div class="control-group">
+		<label class="control-label" for="psswd">Mot de passe *</label>
+		<div class="controls">
+		  <input id="psswd" name="psswd" placeholder="" class="input-xlarge" required="" type="password">
+		  
+		</div>
+	      </div>
+	      
+	      <!-- confirmer mot de passe input-->
+	      <div class="control-group">
+		<label class="control-label" for="conf_psswd">Confirmer le mot de passe *</label>
+		<div class="controls">
+		  <input id="conf_psswd" name="conf_psswd" placeholder="" class="input-xlarge" required="" type="password">
+		  
+		</div>
+	      </div>
+		</div>
+	      <!-- Nom input-->
+	      
+		<div class="control-group">
+		  <label class="control-label" for="name">Nom *</label>
+		  <div class="controls">
+		    <input id="name" name="name" placeholder="" class="input-xlarge" required="">
+		    
 	
+		</div>
+	      </div>
+	      
+	      <!-- Prenom input-->
+	      <div class="control-group">
+		<label class="control-label" for="first_name">Prenom *</label>
+		<div class="controls">
+		  <input id="first_name" name="first_name" placeholder="" class="input-xlarge" required="">
+		  
+		</div>
+	      </div>
+	      
+	      <!-- Emploi input-->
+	      <div class="control-group">
+		<label class="control-label" for="job">Emploi</label>
+		<div class="controls">
+		  <input id="job" name="job" placeholder="" class="input-xlarge">
+		  
+		</div>
+	      </div>
+	      
+	      <!-- Entreprise input-->
+	      <div class="control-group">
+		<label class="control-label" for="entreprise">Entreprise</label>
+		<div class="controls">
+		  <input id="employer" name="entreprise" placeholder="" class="input-xlarge">
+		  
+		</div>
+	      </div>
+	      
+	      <!-- bouton -->
+	      <div class="control-group" style="margin-bottom:20px; margin-left:14px">
+		<label class="control-label" for="sign_up_button"></label>
+		<div class="controls">
+		  <button id="sign_up_button" name="sign_up_button" class="btn btn-default" action="inscription.php">Creer un compte</button>
+		</div>
+	      </div>
+	    </fieldset>
+	  </form>
+	</div>
+
 	<!-- SERVICE SECTION -->
 	<section id="contact" name="contact"></section>
 	<!-- CONTACT SEPARATOR -->
